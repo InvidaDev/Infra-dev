@@ -1,0 +1,1 @@
+password = "arn:aws:secretsmanager:eu-west-1:952195334851:secret:AMIkey-cWj6ln"
